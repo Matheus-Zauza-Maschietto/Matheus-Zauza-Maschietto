@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Matheus Zauza Maschietto
-- 👀 I’m interested in intern with python
-- 🌱 I’m currently learning data science with python
-- 💞️ I’m looking to collaborate on projects envolving python
-- 📫 How to reach me: send me a email at matheus_maschietto@yahoo.com.br
+<h1>Ymaschietto - 👾 Matheus Zauza Maschietto 👾</h1>
+<hr>
+<h2>About Me</h2>
+<p>Hi, I'm Matheus, I like to code mainly in python, css3 and html5, I also have a basic knowledge of javascript, I'm mainly interested in A.I and back-end development</p>
+<h2>here some of my projects</h2>
 
 <!---
 ymaschietto/ymaschietto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
