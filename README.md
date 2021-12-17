@@ -1,4 +1,4 @@
-<h1>Ymaschietto - 👾 Matheus Zauza Maschietto 👾</h1>
+<h1>👾 Matheus Zauza Maschietto 👾</h1>
 <hr>
 <h2>About Me</h2>
 <p>Hi, I'm Matheus, I like to code mainly in python, css3 and html5, I also have a basic knowledge of javascript, I'm mainly interested in A.I and back-end development</p>
