@@ -1,7 +1,8 @@
-<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Zauza-Maschietto&layout=compact&langs_count=7&theme=highcontrast"/>
-
- <a href="https: //github.com/Matheus-Zauza-Maschietto">
- <img height="180em" width="48%" src="https: //github-readme-stats.vercel.app/api?username=Matheus-Zauza-Maschietto&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://github.com/Matheus-Zauza-Maschietto">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Matheus-Zauza-Maschietto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Zauza-Maschietto&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 <h1>👾 Matheus Zauza Maschietto 👾</h1>
