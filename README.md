@@ -16,7 +16,7 @@
   <br> 
   Caso tenha interesse em entrar em contato comigo.
   <br>
-  <a href="https://www.linkedin.com/in/matheus-maschietto-ab9540215/" target="_blank" rel="author" >Linkedin</a>
+  <a href="https://www.linkedin.com/in/matheus-maschietto-ab9540215/" target="_blank" rel="external" >Linkedin</a>
   <br>
   Email: matheus_maschieto@yahoo.com.br
 </p>
