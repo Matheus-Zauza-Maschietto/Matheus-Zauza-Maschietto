@@ -15,7 +15,9 @@
   <strong>.net</strong>. Possuo bons conhecimentos em <strong>python</strong>, <strong>vue.js</strong>, <strong>bootstrap</strong> e <strong>restAPIs</strong>.
   <br> 
   Caso tenha interesse em entrar em contato comigo.
+  <br>
   <a href="https://github.com/Matheus-Zauza-Maschietto">Linkedin</a>
+  <br>
   Email: matheus_maschieto@yahoo.com.br
 </p>
 
