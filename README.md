@@ -8,8 +8,14 @@
 <h1>👾 Matheus Zauza Maschietto 👾</h1>
 <hr>
 <h2>About Me</h2>
-<p>Hi, I'm Matheus, I like to code mainly in python, css3 and html5, I also have a basic knowledge of javascript, I'm mainly interested in A.I and back-end development</p>
-<h2>here some of my projects👇👇👇</h2>
+<p>
+  Olá, se está aqui é porquê quer ver um pouco mais do que eu faço. Sou desenvolvedor full-stack com enfasê em backend com 
+  <strong>.net</strong>. Possuo bons conhecimentos em <strong>python</strong>, <strong>vue.js</strong>, <strong>bootstrap</strong> e <strong>restAPIs</strong>.
+  <br> 
+  Caso tenha interesse em entrar em contato comigo.
+  <a href="https://github.com/Matheus-Zauza-Maschietto">Linkedin</a>
+  Email: matheus_maschieto@yahoo.com.br
+</p>
 
 <!---
 ymaschietto/ymaschietto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
