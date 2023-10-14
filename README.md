@@ -16,7 +16,9 @@
   <br> 
   Caso tenha interesse em entrar em contato comigo.
   <br>
-  <a href="https://www.linkedin.com/in/matheus-maschietto-ab9540215/" target="_blank" rel="external" >Linkedin</a>
+  Linkedin: <a href="https://www.linkedin.com/in/matheus-maschietto-ab9540215/" target="_blank" rel="external" >Linkedin</a>
+  <br>
+  Meu portifolio: <a href="https://matheuszauzamaschietto.vercel.app/" target="_blank" rel="external" >Portifolio</a>
   <br>
   Email: matheus_maschieto@yahoo.com.br
 </p>
