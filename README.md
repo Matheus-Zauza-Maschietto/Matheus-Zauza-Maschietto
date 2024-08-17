@@ -9,10 +9,9 @@
 <hr>
 <h2>About Me</h2>
 <p>
-  Olá, se está aqui é porquê quer ver um pouco mais do que eu faço.
   <br>
   Sou desenvolvedor full-stack com enfasê em backend com 
-  <strong>.net</strong>. Possuo bons conhecimentos em <strong>python</strong>, <strong>vue.js</strong>, <strong>bootstrap</strong> e <strong>restAPIs</strong>.
+  <strong>.net</strong>. Possuo bons conhecimentos em <strong>C#/.Net</strong>, <strong>vue.js</strong>, <strong>restAPIs</strong> e <strong>RabbitMQ</strong>.
   <br> 
   Caso tenha interesse em entrar em contato comigo.
   <br>
