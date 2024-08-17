@@ -11,7 +11,7 @@
 <p>
   <br>
   Sou desenvolvedor full-stack com enfasê em backend com 
-  <strong>.net</strong>. Possuo bons conhecimentos em <strong>C#/.Net</strong>, <strong>vue.js</strong>, <strong>restAPIs</strong> e <strong>RabbitMQ</strong>.
+  <strong>.Net</strong>. Possuo bons conhecimentos em <strong>C#/.Net</strong>, <strong>vue.js</strong>, <strong>restAPIs</strong> e <strong>RabbitMQ</strong>.
   <br> 
   Caso tenha interesse em entrar em contato comigo.
   <br>
